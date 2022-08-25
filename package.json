@@ -1,0 +1,19 @@
+{
+  "name": "lista-perguntas-fake-api",
+  "version": "1.0.0",
+  "description": "fornece uma lista de perguntas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinan-Alves/lista-de-perguntas-fake-api.git"
+  },
+  "author": "Reinan Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reinan-Alves/lista-de-perguntas-fake-api/issues"
+  },
+  "homepage": "https://github.com/Reinan-Alves/lista-de-perguntas-fake-api#readme"
+}
