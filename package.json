@@ -12,6 +12,9 @@
   },
   "author": "Reinan Santos",
   "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
   "bugs": {
     "url": "https://github.com/Reinan-Alves/lista-de-perguntas-fake-api/issues"
   },
